@@ -1,6 +1,6 @@
 # queryparser
 
-Parsing and analysis of Vertica, Hive, and Presto SQL.
+Parsing and analysis of Vertica, Hive, and Presto SQL.  Woo!
 
 
 ## Gentle introduction
